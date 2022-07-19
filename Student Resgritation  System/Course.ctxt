@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\n\ Write\ a\ description\ of\ class\ Course\ here.\n\n\ @author\ (Trishala\ Prasai)\n\ @version\ (11.0.02)\n
+comment1.params=CourseID\ CourseName\ CourseDuration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ A\ constructor\ is\ created\ with\ 3\ parameters\:\n\ The\ CourseID,CourseName\ and\ CourseDuration\ are\ installed\ in\ the\ constructor\ by\ being\ assigned\ the\ value\ of\ the\ constructor's\ parameters.\n\ The\ CourseLeader\ is\ initialized\ with\ empty\ string("")\ in\ the\ constructor.\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment4.params=
+comment4.target=java.lang.String\ getCourseLeader()
+comment5.params=CourseLeader
+comment5.target=void\ setCourseLeader(java.lang.String)
+comment6.params=
+comment6.target=int\ getCourseDuration()
+comment7.params=
+comment7.target=void\ display()
+numComments=8
